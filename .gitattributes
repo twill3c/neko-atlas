@@ -1,0 +1,4 @@
+# 往復検査(F-04 / O-1)は原文のバイト列を正とする。改行変換を一切させない
+* -text
+data/** -text -diff
+tests/fixtures/** -text -diff
