@@ -1,0 +1,134 @@
+{
+ "card_issues": [
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 1
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 2
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 4
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 6
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 7
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 10
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 1
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 3
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 4
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 8
+  }
+ ],
+ "footer_issues": [
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 1
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 2
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 4
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 6
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 7
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1905,
+   "era": "明治38",
+   "month": 10
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 1
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 3
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 4
+  },
+  {
+   "media": "ホトトギス",
+   "year": 1906,
+   "era": "明治39",
+   "month": 8
+  }
+ ],
+ "agree": true,
+ "card_only": [],
+ "footer_only": [],
+ "count": 10,
+ "chapter_count": 11,
+ "one_to_one": false,
+ "chapter_to_issue": null,
+ "chapter_to_issue_status": "needs_review — 連載 10 回に対し章は 11。どの回が 2 章分を含むかを決められる出所を 本ループでは持たない。推定で埋めない(F-13 と同じ規律)"
+}

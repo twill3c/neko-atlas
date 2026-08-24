@@ -1,0 +1,1339 @@
+{
+ "author_list": {
+  "url": "https://www.aozora.gr.jp/index_pages/person148.html",
+  "provenance": {
+   "url": "https://www.aozora.gr.jp/index_pages/person148.html",
+   "fetched_at": "2026-08-25T06:10:00+09:00",
+   "sha256": "120137200f380e21041be4d278c9badda91f452115ef09a328ce7333f82f6acf",
+   "bytes": 19451
+  },
+  "count": 113
+ },
+ "target_title": "吾輩は猫である",
+ "inventory": [
+  {
+   "card_id": "2314",
+   "author_dir": "000148",
+   "title": "イズムの功過",
+   "kanazukai": "新字新仮名",
+   "work_id": "2314",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2314.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1086",
+   "author_dir": "000148",
+   "title": "一夜",
+   "kanazukai": "新字新仮名",
+   "work_id": "1086",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1086.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "758",
+   "author_dir": "000148",
+   "title": "永日小品",
+   "kanazukai": "新字新仮名",
+   "work_id": "758",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card758.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2669",
+   "author_dir": "000148",
+   "title": "岡本一平著並画『探訪画趣』序",
+   "kanazukai": "新字新仮名",
+   "work_id": "2669",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2669.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "59017",
+   "author_dir": "000148",
+   "title": "おはなし",
+   "kanazukai": "新字新仮名",
+   "work_id": "59017",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card59017.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "792",
+   "author_dir": "000148",
+   "title": "思い出す事など",
+   "kanazukai": "新字新仮名",
+   "work_id": "792",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card792.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1046",
+   "author_dir": "000148",
+   "title": "カーライル博物館",
+   "kanazukai": "新字新仮名",
+   "work_id": "1046",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1046.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "769",
+   "author_dir": "000148",
+   "title": "薤露行",
+   "kanazukai": "新字新仮名",
+   "work_id": "769",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card769.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2383",
+   "author_dir": "000148",
+   "title": "学者と名誉",
+   "kanazukai": "新字新仮名",
+   "work_id": "2383",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2383.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "760",
+   "author_dir": "000148",
+   "title": "硝子戸の中",
+   "kanazukai": "新字新仮名",
+   "work_id": "760",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card760.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2674",
+   "author_dir": "000148",
+   "title": "元日",
+   "kanazukai": "新字新仮名",
+   "work_id": "2674",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2674.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "58276",
+   "author_dir": "000148",
+   "title": "鬼哭寺の一夜",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "58276",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card58276.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2670",
+   "author_dir": "000148",
+   "title": "木下杢太郎『唐草表紙』序",
+   "kanazukai": "新字新仮名",
+   "work_id": "2670",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2670.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "778",
+   "author_dir": "000148",
+   "title": "教育と文芸",
+   "kanazukai": "新字新仮名",
+   "work_id": "778",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card778.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "777",
+   "author_dir": "000148",
+   "title": "京に着ける夕",
+   "kanazukai": "新字新仮名",
+   "work_id": "777",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card777.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "55936",
+   "author_dir": "000148",
+   "title": "京に着ける夕",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "55936",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card55936.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2373",
+   "author_dir": "000148",
+   "title": "虚子君へ",
+   "kanazukai": "新字新仮名",
+   "work_id": "2373",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2373.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "776",
+   "author_dir": "000148",
+   "title": "草枕",
+   "kanazukai": "新字新仮名",
+   "work_id": "776",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card776.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "761",
+   "author_dir": "000148",
+   "title": "虞美人草",
+   "kanazukai": "新字新仮名",
+   "work_id": "761",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card761.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "770",
+   "author_dir": "000148",
+   "title": "ケーベル先生",
+   "kanazukai": "新字新仮名",
+   "work_id": "770",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card770.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "771",
+   "author_dir": "000148",
+   "title": "ケーベル先生の告別",
+   "kanazukai": "新字新仮名",
+   "work_id": "771",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card771.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "759",
+   "author_dir": "000148",
+   "title": "現代日本の開化",
+   "kanazukai": "新字新仮名",
+   "work_id": "759",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card759.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "775",
+   "author_dir": "000148",
+   "title": "行人",
+   "kanazukai": "新字新仮名",
+   "work_id": "775",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card775.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "774",
+   "author_dir": "000148",
+   "title": "坑夫",
+   "kanazukai": "新字新仮名",
+   "work_id": "774",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card774.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "773",
+   "author_dir": "000148",
+   "title": "こころ",
+   "kanazukai": "新字新仮名",
+   "work_id": "773",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card773.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4689",
+   "author_dir": "000148",
+   "title": "『心』広告文",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4689",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4689.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4688",
+   "author_dir": "000148",
+   "title": "『心』自序",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4688",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4688.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4687",
+   "author_dir": "000148",
+   "title": "『心』予告",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4687",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4687.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1073",
+   "author_dir": "000148",
+   "title": "琴のそら音",
+   "kanazukai": "新字新仮名",
+   "work_id": "1073",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1073.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "766",
+   "author_dir": "000148",
+   "title": "コンラッドの描きたる自然について",
+   "kanazukai": "新字新仮名",
+   "work_id": "766",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card766.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "793",
+   "author_dir": "000148",
+   "title": "作物の批評",
+   "kanazukai": "新字新仮名",
+   "work_id": "793",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card793.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "784",
+   "author_dir": "000148",
+   "title": "三山居士",
+   "kanazukai": "新字新仮名",
+   "work_id": "784",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card784.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "58842",
+   "author_dir": "000148",
+   "title": "三四郎",
+   "kanazukai": "新字旧仮名",
+   "work_id": "58842",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card58842.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "794",
+   "author_dir": "000148",
+   "title": "三四郎",
+   "kanazukai": "新字新仮名",
+   "work_id": "794",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card794.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4682",
+   "author_dir": "000148",
+   "title": "『三四郎』予告",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4682",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4682.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "795",
+   "author_dir": "000148",
+   "title": "子規の画",
+   "kanazukai": "新字新仮名",
+   "work_id": "795",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card795.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1749",
+   "author_dir": "000148",
+   "title": "子規の画",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "1749",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1749.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "42297",
+   "author_dir": "000148",
+   "title": "「自然を写す文章」",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "42297",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card42297.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "768",
+   "author_dir": "000148",
+   "title": "自転車日記",
+   "kanazukai": "新字新仮名",
+   "work_id": "768",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card768.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "796",
+   "author_dir": "000148",
+   "title": "写生文",
+   "kanazukai": "新字新仮名",
+   "work_id": "796",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card796.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "58277",
+   "author_dir": "000148",
+   "title": "従軍行",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "58277",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card58277.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1104",
+   "author_dir": "000148",
+   "title": "趣味の遺伝",
+   "kanazukai": "新字新仮名",
+   "work_id": "1104",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1104.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "797",
+   "author_dir": "000148",
+   "title": "初秋の一日",
+   "kanazukai": "新字新仮名",
+   "work_id": "797",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card797.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2680",
+   "author_dir": "000148",
+   "title": "処女作追懐談",
+   "kanazukai": "新字新仮名",
+   "work_id": "2680",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2680.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "767",
+   "author_dir": "000148",
+   "title": "人生",
+   "kanazukai": "新字旧仮名",
+   "work_id": "767",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card767.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2575",
+   "author_dir": "000148",
+   "title": "鈴木三重吉宛書簡―明治三十九年",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "2575",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2575.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "42320",
+   "author_dir": "000148",
+   "title": "西洋にはない",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "42320",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card42320.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2315",
+   "author_dir": "000148",
+   "title": "戦争からきた行き違い",
+   "kanazukai": "新字新仮名",
+   "work_id": "2315",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2315.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1102",
+   "author_dir": "000148",
+   "title": "創作家の態度",
+   "kanazukai": "新字新仮名",
+   "work_id": "1102",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1102.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1746",
+   "author_dir": "000148",
+   "title": "それから",
+   "kanazukai": "新字旧仮名",
+   "work_id": "1746",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1746.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "56143",
+   "author_dir": "000148",
+   "title": "それから",
+   "kanazukai": "新字新仮名",
+   "work_id": "56143",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card56143.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4681",
+   "author_dir": "000148",
+   "title": "『それから』予告",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4681",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4681.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2667",
+   "author_dir": "000148",
+   "title": "高浜虚子著『鶏頭』序",
+   "kanazukai": "新字新仮名",
+   "work_id": "2667",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2667.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2370",
+   "author_dir": "000148",
+   "title": "田山花袋君に答う",
+   "kanazukai": "新字新仮名",
+   "work_id": "2370",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2370.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "56900",
+   "author_dir": "000148",
+   "title": "「土」に就て",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "56900",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card56900.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2668",
+   "author_dir": "000148",
+   "title": "『土』に就て",
+   "kanazukai": "新字新仮名",
+   "work_id": "2668",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2668.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4686",
+   "author_dir": "000148",
+   "title": "艇長の遺書と中佐の詩",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4686",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4686.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "798",
+   "author_dir": "000148",
+   "title": "手紙",
+   "kanazukai": "新字新仮名",
+   "work_id": "798",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card798.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "42156",
+   "author_dir": "000148",
+   "title": "『伝説の時代』序",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "42156",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card42156.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4672",
+   "author_dir": "000148",
+   "title": "点頭録",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4672",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4672.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2313",
+   "author_dir": "000148",
+   "title": "『東洋美術図譜』",
+   "kanazukai": "新字新仮名",
+   "work_id": "2313",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2313.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "757",
+   "author_dir": "000148",
+   "title": "道楽と職業",
+   "kanazukai": "新字新仮名",
+   "work_id": "757",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card757.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2682",
+   "author_dir": "000148",
+   "title": "長塚節氏の小説「土」",
+   "kanazukai": "新字新仮名",
+   "work_id": "2682",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2682.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "788",
+   "author_dir": "000148",
+   "title": "中味と形式",
+   "kanazukai": "新字新仮名",
+   "work_id": "788",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card788.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "751",
+   "author_dir": "000148",
+   "title": "二百十日",
+   "kanazukai": "新字新仮名",
+   "work_id": "751",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card751.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2673",
+   "author_dir": "000148",
+   "title": "入社の辞",
+   "kanazukai": "新字新仮名",
+   "work_id": "2673",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2673.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4683",
+   "author_dir": "000148",
+   "title": "猫の広告文",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4683",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4683.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "791",
+   "author_dir": "000148",
+   "title": "野分",
+   "kanazukai": "新字新仮名",
+   "work_id": "791",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card791.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4684",
+   "author_dir": "000148",
+   "title": "『煤煙』の序",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4684",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4684.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "787",
+   "author_dir": "000148",
+   "title": "博士問題とマードック先生と余",
+   "kanazukai": "新字新仮名",
+   "work_id": "787",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card787.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2376",
+   "author_dir": "000148",
+   "title": "博士問題の成行",
+   "kanazukai": "新字新仮名",
+   "work_id": "2376",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2376.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "762",
+   "author_dir": "000148",
+   "title": "長谷川君と余",
+   "kanazukai": "新字新仮名",
+   "work_id": "762",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card762.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "765",
+   "author_dir": "000148",
+   "title": "彼岸過迄",
+   "kanazukai": "新字新仮名",
+   "work_id": "765",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card765.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "50478",
+   "author_dir": "000148",
+   "title": "「額の男」を読む",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "50478",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card50478.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "60818",
+   "author_dir": "000148",
+   "title": "『文学論』序",
+   "kanazukai": "新字旧仮名",
+   "work_id": "60818",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card60818.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "754",
+   "author_dir": "000148",
+   "title": "文芸委員は何をするか",
+   "kanazukai": "新字新仮名",
+   "work_id": "754",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card754.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "756",
+   "author_dir": "000148",
+   "title": "文芸と道徳",
+   "kanazukai": "新字新仮名",
+   "work_id": "756",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card756.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "4685",
+   "author_dir": "000148",
+   "title": "文芸とヒロイツク",
+   "kanazukai": "新字旧仮名",
+   "work_id": "4685",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card4685.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "755",
+   "author_dir": "000148",
+   "title": "文芸の哲学的基礎",
+   "kanazukai": "新字新仮名",
+   "work_id": "755",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card755.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2681",
+   "author_dir": "000148",
+   "title": "文芸は男子一生の事業とするに足らざる乎",
+   "kanazukai": "新字新仮名",
+   "work_id": "2681",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2681.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2679",
+   "author_dir": "000148",
+   "title": "文士の生活",
+   "kanazukai": "新字新仮名",
+   "work_id": "2679",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2679.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2371",
+   "author_dir": "000148",
+   "title": "文壇の趨勢",
+   "kanazukai": "新字新仮名",
+   "work_id": "2371",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2371.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "753",
+   "author_dir": "000148",
+   "title": "文鳥",
+   "kanazukai": "新字新仮名",
+   "work_id": "753",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card753.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "763",
+   "author_dir": "000148",
+   "title": "変な音",
+   "kanazukai": "新字新仮名",
+   "work_id": "763",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card763.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "764",
+   "author_dir": "000148",
+   "title": "変な音",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "764",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card764.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1750",
+   "author_dir": "000148",
+   "title": "僕の昔",
+   "kanazukai": "新字新仮名",
+   "work_id": "1750",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1750.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "50420",
+   "author_dir": "000148",
+   "title": "坊っちやん",
+   "kanazukai": "新字旧仮名",
+   "work_id": "50420",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card50420.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "752",
+   "author_dir": "000148",
+   "title": "坊っちゃん",
+   "kanazukai": "新字新仮名",
+   "work_id": "752",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card752.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2375",
+   "author_dir": "000148",
+   "title": "マードック先生の『日本歴史』",
+   "kanazukai": "新字新仮名",
+   "work_id": "2375",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2375.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1751",
+   "author_dir": "000148",
+   "title": "正岡子規",
+   "kanazukai": "新字新仮名",
+   "work_id": "1751",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1751.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "780",
+   "author_dir": "000148",
+   "title": "幻影の盾",
+   "kanazukai": "新字新仮名",
+   "work_id": "780",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card780.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "781",
+   "author_dir": "000148",
+   "title": "満韓ところどころ",
+   "kanazukai": "新字新仮名",
+   "work_id": "781",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card781.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "783",
+   "author_dir": "000148",
+   "title": "道草",
+   "kanazukai": "新字新仮名",
+   "work_id": "783",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card783.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "58278",
+   "author_dir": "000148",
+   "title": "水底の感",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "58278",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card58278.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "786",
+   "author_dir": "000148",
+   "title": "無題",
+   "kanazukai": "新字新仮名",
+   "work_id": "786",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card786.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "782",
+   "author_dir": "000148",
+   "title": "明暗",
+   "kanazukai": "新字新仮名",
+   "work_id": "782",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card782.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2372",
+   "author_dir": "000148",
+   "title": "明治座の所感を虚子君に問れて",
+   "kanazukai": "新字新仮名",
+   "work_id": "2372",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2372.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1747",
+   "author_dir": "000148",
+   "title": "模倣と独立",
+   "kanazukai": "新字新仮名",
+   "work_id": "1747",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1747.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "56923",
+   "author_dir": "000148",
+   "title": "門",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "56923",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card56923.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "785",
+   "author_dir": "000148",
+   "title": "門",
+   "kanazukai": "新字新仮名",
+   "work_id": "785",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card785.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "799",
+   "author_dir": "000148",
+   "title": "夢十夜",
+   "kanazukai": "新字新仮名",
+   "work_id": "799",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card799.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2675",
+   "author_dir": "000148",
+   "title": "余と万年筆",
+   "kanazukai": "新字新仮名",
+   "work_id": "2675",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2675.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2678",
+   "author_dir": "000148",
+   "title": "予の描かんと欲する作品",
+   "kanazukai": "新字新仮名",
+   "work_id": "2678",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2678.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "2676",
+   "author_dir": "000148",
+   "title": "落第",
+   "kanazukai": "新字新仮名",
+   "work_id": "2676",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2676.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "779",
+   "author_dir": "000148",
+   "title": "倫敦消息",
+   "kanazukai": "新字新仮名",
+   "work_id": "779",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card779.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "1076",
+   "author_dir": "000148",
+   "title": "倫敦塔",
+   "kanazukai": "新字新仮名",
+   "work_id": "1076",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card1076.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "789",
+   "author_dir": "000148",
+   "title": "吾輩は猫である",
+   "kanazukai": "新字新仮名",
+   "work_id": "789",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card789.html",
+   "role": "honbun",
+   "reason": "題名が対象作品と一致(カタカナ→ひらがなの畳み込み後)",
+   "card": {
+    "shoshutsu": "「ホトトギス」1905（明治38）年1月、2月、4月、6月、7月、10月、1906（明治39）年1月、3月、4月、8月",
+    "teihon": "夏目漱石全集1",
+    "ndc": "NDC 913",
+    "files": [
+     {
+      "name": "789_14547.html",
+      "kind": "html",
+      "url": "https://www.aozora.gr.jp/cards/000148/files/789_14547.html"
+     },
+     {
+      "name": "789_ruby_5639.zip",
+      "kind": "text_ruby",
+      "url": "https://www.aozora.gr.jp/cards/000148/files/789_ruby_5639.zip"
+     },
+     {
+      "name": "789.ebk",
+      "kind": "other",
+      "url": "https://www.aozora.gr.jp/cards/000148/files/789.ebk"
+     }
+    ]
+   },
+   "card_provenance": {
+    "url": "https://www.aozora.gr.jp/cards/000148/card789.html",
+    "fetched_at": "2026-08-25T06:10:37+09:00",
+    "sha256": "87093f3e1d77af4e004f808dc9ac3e5190c1c9d10ee89a71fdb466c2364dda5b",
+    "bytes": 10891
+   },
+   "issues": [
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 1
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 2
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 4
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 6
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 7
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 10
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 1
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 3
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 4
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 8
+    }
+   ],
+   "text": {
+    "path": "data/raw/789.txt",
+    "text_kind": "ruby",
+    "source": "zip",
+    "inner_name": "wagahaiwa_nekodearu.txt",
+    "chars": 377325,
+    "provenance": {
+     "url": "https://www.aozora.gr.jp/cards/000148/files/789_ruby_5639.zip",
+     "fetched_at": "2026-08-25T06:13:21+09:00",
+     "sha256": "6545750b89ee2c57f215a65079eeab56ee7c997373b7b86e5b00ae74fe69208f",
+     "bytes": 344964
+    }
+   }
+  },
+  {
+   "card_id": "790",
+   "author_dir": "000148",
+   "title": "吾輩ハ猫デアル",
+   "kanazukai": "旧字旧仮名",
+   "work_id": "790",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card790.html",
+   "role": "honbun",
+   "reason": "題名が対象作品と一致(カタカナ→ひらがなの畳み込み後)",
+   "card": {
+    "shoshutsu": "「ホトトギス」1905（明治38）年1月、2月、4月、6月、7月、10月、1906（明治39）年1月、3月、4月、8月",
+    "teihon": "新選　名著復刻全集　近代文学館　吾輩ハ猫デアル",
+    "ndc": "NDC 913",
+    "files": [
+     {
+      "name": "790.html",
+      "kind": "html",
+      "url": "https://www.aozora.gr.jp/cards/000148/files/790.html"
+     }
+    ]
+   },
+   "card_provenance": {
+    "url": "https://www.aozora.gr.jp/cards/000148/card790.html",
+    "fetched_at": "2026-08-25T06:10:38+09:00",
+    "sha256": "5558d6fd71e0abcacdc82ae1c704874bb90cf5c92c77b4d7c8ead785157224ae",
+    "bytes": 8920
+   },
+   "issues": [
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 1
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 2
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 4
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 6
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 7
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1905,
+     "era": "明治38",
+     "month": 10
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 1
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 3
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 4
+    },
+    {
+     "media": "ホトトギス",
+     "year": 1906,
+     "era": "明治39",
+     "month": 8
+    }
+   ],
+   "text": {
+    "source": "html_only",
+    "note": "テキスト配布 zip が無く HTML のみ。記法テキストではないため往復検査(O-1)の対象外",
+    "files": [
+     {
+      "name": "790.html",
+      "kind": "html",
+      "url": "https://www.aozora.gr.jp/cards/000148/files/790.html"
+     }
+    ]
+   }
+  },
+  {
+   "card_id": "2672",
+   "author_dir": "000148",
+   "title": "『吾輩は猫である』下篇自序",
+   "kanazukai": "新字新仮名",
+   "work_id": "2672",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2672.html",
+   "role": "paratext",
+   "reason": "対象作品の題名を含むが本文ではない(自序等の付属テキスト)"
+  },
+  {
+   "card_id": "47148",
+   "author_dir": "000148",
+   "title": "『吾輩は猫である』上篇自序",
+   "kanazukai": "新字新仮名",
+   "work_id": "47148",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card47148.html",
+   "role": "paratext",
+   "reason": "対象作品の題名を含むが本文ではない(自序等の付属テキスト)"
+  },
+  {
+   "card_id": "2671",
+   "author_dir": "000148",
+   "title": "『吾輩は猫である』中篇自序",
+   "kanazukai": "新字新仮名",
+   "work_id": "2671",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2671.html",
+   "role": "paratext",
+   "reason": "対象作品の題名を含むが本文ではない(自序等の付属テキスト)"
+  },
+  {
+   "card_id": "2677",
+   "author_dir": "000148",
+   "title": "私の経過した学生時代",
+   "kanazukai": "新字新仮名",
+   "work_id": "2677",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card2677.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  },
+  {
+   "card_id": "772",
+   "author_dir": "000148",
+   "title": "私の個人主義",
+   "kanazukai": "新字新仮名",
+   "work_id": "772",
+   "card_url": "https://www.aozora.gr.jp/cards/000148/card772.html",
+   "role": "other",
+   "reason": "対象作品ではない"
+  }
+ ]
+}

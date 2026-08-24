@@ -1,0 +1,115 @@
+{
+ "card_id": "789",
+ "title": "吾輩は猫である",
+ "author": "夏目漱石",
+ "invariants": {
+  "body_chars": 376432,
+  "prologue_chars": 0,
+  "sum_chars": 376432,
+  "covers_body": true,
+  "contiguous": true,
+  "numbers_sequential": true,
+  "chapter_count": 11
+ },
+ "chapters": [
+  {
+   "index": 1,
+   "label": "一",
+   "number": 1,
+   "level": "中",
+   "start": 0,
+   "end": 13979,
+   "chars": 13979
+  },
+  {
+   "index": 2,
+   "label": "二",
+   "number": 2,
+   "level": "中",
+   "start": 13979,
+   "end": 61615,
+   "chars": 47636
+  },
+  {
+   "index": 3,
+   "label": "三",
+   "number": 3,
+   "level": "中",
+   "start": 61615,
+   "end": 102156,
+   "chars": 40541
+  },
+  {
+   "index": 4,
+   "label": "四",
+   "number": 4,
+   "level": "中",
+   "start": 102156,
+   "end": 129607,
+   "chars": 27451
+  },
+  {
+   "index": 5,
+   "label": "五",
+   "number": 5,
+   "level": "中",
+   "start": 129607,
+   "end": 156658,
+   "chars": 27051
+  },
+  {
+   "index": 6,
+   "label": "六",
+   "number": 6,
+   "level": "中",
+   "start": 156658,
+   "end": 185570,
+   "chars": 28912
+  },
+  {
+   "index": 7,
+   "label": "七",
+   "number": 7,
+   "level": "中",
+   "start": 185570,
+   "end": 216153,
+   "chars": 30583
+  },
+  {
+   "index": 8,
+   "label": "八",
+   "number": 8,
+   "level": "中",
+   "start": 216153,
+   "end": 250403,
+   "chars": 34250
+  },
+  {
+   "index": 9,
+   "label": "九",
+   "number": 9,
+   "level": "中",
+   "start": 250403,
+   "end": 283379,
+   "chars": 32976
+  },
+  {
+   "index": 10,
+   "label": "十",
+   "number": 10,
+   "level": "中",
+   "start": 283379,
+   "end": 324242,
+   "chars": 40863
+  },
+  {
+   "index": 11,
+   "label": "十一",
+   "number": 11,
+   "level": "中",
+   "start": 324242,
+   "end": 376432,
+   "chars": 52190
+  }
+ ]
+}
