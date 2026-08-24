@@ -43,7 +43,7 @@ def build() -> dict:
     voices = split_voices(doc)
     check = check_direct_sum(voices)
     save(voices, DATA / "voices.json")
-    if not (check["covers_body"] and check["segments_cover_content"]):
+    if not (check["covers_body"] and check["segments_cover_content"] and check["readable_matches_labels"]):
         raise SystemExit(f"O-2 直和検査に失敗: {check}")
 
     analyzers = load_analyzers()

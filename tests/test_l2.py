@@ -59,6 +59,30 @@ def test_t201_direct_sum_synthetic():
 
 
 @pytest.mark.unit
+def test_t201_readable_text_carries_no_notation():
+    """下流に渡す可読テキストに記法が 1 文字も残らない(L3 で発覚した抜け道を塞ぐ)。
+
+    ラベルの直和が成立していても _readable が記法を残せる。可読テキストの総長が
+    内容文字数と一致することを別経路の不変量として立てる。
+    """
+    doc = make_doc(
+        [
+            "　主人《しゅじん》は「そうさ」と一｜疋《ぴき》の猫に云った。",
+            "　※［＃「言＋墟のつくり」、第4水準2-88-74］《いつ》である。",
+        ]
+    )
+    r = split_voices(doc)
+    c = check_direct_sum(r)
+    text = "".join(s.text for s in r["segments"])
+    # 前提の検算: このフィクスチャは実際にルビと ｜ と外字を含む(HC-023)
+    assert c["counts"]["ruby"] > 0 and c["counts"]["bar"] > 0 and c["counts"]["note"] > 0
+    for mark in ("《", "》", "｜", "［＃", "］"):
+        assert mark not in text, f"可読テキストに {mark} が残っている"
+    assert c["readable_matches_labels"], c
+    assert len(text) == c["counts"]["jinomon"] + c["counts"]["kaiwa"]
+
+
+@pytest.mark.unit
 def test_t201_every_char_labelled_exactly_once():
     """ラベル配列が本文と同じ長さで、未分類が無い。"""
     doc = make_doc(["　吾輩《わがはい》は「猫」である。"])
@@ -141,6 +165,8 @@ def test_t201_measured_direct_sum():
     assert c["segments_cover_content"] and c["segment_label_mismatch"] == 0
     assert c["unclosed_count"] == 0, v["unclosed"]
     assert sum(v["counts"].values()) == v["body_chars"]
+    assert c["readable_matches_labels"], c
+    assert sum(s["chars"] for s in v["segments"]) == v["counts"]["jinomon"] + v["counts"]["kaiwa"]
 
 
 @requires_l2

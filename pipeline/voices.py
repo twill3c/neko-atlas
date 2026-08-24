@@ -89,18 +89,19 @@ def classify_chars(doc: Document) -> tuple[list[str], list[int]]:
 
 
 def _readable(doc: Document, start: int, end: int, labels: list[str]) -> str:
-    """区間の可読テキスト。外字(※ + 注記)は 1 文字 〓 に畳む。"""
+    """区間の可読テキスト。
+
+    **記法の文字(注記・ルビ読み・｜)は 1 文字も残さない。** 内容文字だけを取り、
+    外字(※ + 注記)は 1 文字 〓 に畳む。ここでルビ読みを残すと、下流の形態素解析が
+    ルビ込みの文字列を食う(L3 で発覚。可読テキスト長 == 内容ラベル数 が守り)。
+    """
     body = doc.body_raw
     out: list[str] = []
-    i = start
-    while i < end:
-        if labels[i] == "note":
-            while i < end and labels[i] == "note":
-                i += 1
+    for i in range(start, end):
+        if labels[i] in ("note", "ruby", "bar"):
             continue
         ch = body[i]
         out.append(GAIJI if ch == "※" else ch)
-        i += 1
     return "".join(out)
 
 
@@ -219,8 +220,13 @@ def check_direct_sum(result: dict) -> dict:
                 if labels[k] != seg.kind:
                     mismatched += 1
     content_chars = counts["jinomon"] + counts["kaiwa"]
+    # 下流に渡す可読テキストの総長が内容文字数と一致すること。
+    # ラベルの直和が成立していても、_readable が記法を残していればここで落ちる
+    readable_chars = sum(s.chars for s in segs)
 
     return {
+        "readable_chars": readable_chars,
+        "readable_matches_labels": readable_chars == content_chars,
         "counts": counts,
         "sum": sum(counts.values()),
         "body_chars": result["body_chars"],
