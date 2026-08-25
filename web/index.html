@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>猫アトラス — 応酬の帯</title>
+<meta name="description" content="夏目漱石『吾輩は猫である』一作を、地の文と会話文の直和・発話の交替構造から俯瞰する。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>猫アトラス — 応酬の帯</h1>
+  <p>全文を <strong>誰が話しているか</strong> ではなく <strong>どう応酬しているか</strong> で描いた帯です。
+     交替の構造は鉤括弧の境界が証拠になるので、話者の推定を一切必要とせず 100% 正確に取れます。
+     話者が本文に明記されているのは会話の一部だけなので、話者色は既定で重ねません。</p>
+  <p class="work" id="work"></p>
+</header>
+
+<div class="tiles" id="tiles"></div>
+
+<section style="margin-top:0">
+  <h2>俯瞰 — 11 章</h2>
+  <p class="lede">1 px が覆う範囲について、縦の分割が <strong>地の文と会話の比率</strong>、
+    会話部分の色が <strong>その範囲の平均発話長</strong> です。どちらも集計値なので、
+    発話が 1 px 未満(この作品では 0.6〜2.5 px)でも像が崩れません。
+    <span class="muted">俯瞰では交互濃淡を使いません — サブピクセルではエイリアシングになるためです。</span></p>
+
+  <div class="filters">
+    <label for="overlay">話者を重ねる</label>
+    <select id="overlay"></select>
+    <span class="hint">帰属できた発話だけを塗ります。<strong>不明は塗りません</strong>。
+      個別の話者を選ぶと、俯瞰の帯の上に出現位置のティックが乗ります。</span>
+  </div>
+
+  <div class="band-list" id="bands"></div>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+  <div class="legend" id="legend"></div>
+
+  <div class="detail" id="detail"></div>
+</section>
+
+<section>
+  <h2>表ビュー</h2>
+  <p class="lede">帯が色で示している値の全件です。色だけに頼らずに読めるようにしてあります。</p>
+  <div class="tv-wrap">
+    <table class="tv">
+      <thead>
+        <tr>
+          <th>章</th><th>文字数</th><th>会話率 %</th><th>発話</th><th>会話塊</th>
+          <th>塊長 平均</th><th>塊長 最大</th><th>塊内率 %</th><th>交替/千字</th>
+          <th>発話長 中央</th><th>発話長 最大</th><th>話者が付く %</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>この帯の読み方</h2>
+  <p class="lede">
+    会話は「地の文に挟まれた単発」から「切れ目のない応酬」へ変わっていきます。
+    第一章は塊長平均 1.4・塊内率 48%、第十一章は 3.7・89%。
+    発話長は中央値 24 字ですが最大 2,425 字で、<strong>短い応酬の海に巨大な独白が数個浮かぶ</strong>
+    二相構造です。詳細を開くと、応酬は細かい縞、長広舌は一枚岩として現れます。
+  </p>
+  <p class="lede muted">
+    話者が本文から決まる発話は限られており、その内訳と限界は設計図に記録してあります。
+    帰属できなかった発話を直前の話者などで埋めることはしていません。
+  </p>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="reader.html?ch=1">リーダー</a>
+</footer>
+
+<script src="band.js"></script>
+</body>
+</html>
