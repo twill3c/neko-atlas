@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>連載回クロノグラフ — 猫アトラス</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>連載回クロノグラフ</h1>
+  <p>『吾輩は猫である』は 19 か月かけて連載されました。
+     章を単位に文体を測ると「第一章だけが他章から離れて布置されるか」を問えます。
+     ただし章の大きさは最大 16.6 倍違うので、そのまま測ると<strong>語数を測ってしまいます</strong>。
+     ここでは等サイズブロックを単位に取り直し、置換検定を対照に置いた結果を出します。</p>
+</header>
+
+<nav class="chapter-nav">
+  <a href="index.html">応酬の帯</a>
+  <a href="chrono.html" aria-current="page">連載回</a>
+  <a href="futakoe.html">二声</a>
+  <a href="haichi.html">配置</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</nav>
+
+<section style="margin-top:20px">
+  <h2>初出</h2>
+  <div id="serial"></div>
+</section>
+
+<section>
+  <h2>なぜ章をそのまま単位にしないか</h2>
+  <p class="lede">距離のような<strong>標本サイズに依存する統計量</strong>は、小さい単位ほど
+    「他から離れて」見えます。章をそのまま単位にすると、孤立度は語数の関数になりました。</p>
+  <div id="naive"></div>
+</section>
+
+<section>
+  <h2>等サイズブロックの布置</h2>
+  <div class="filters">
+    <label for="voice">測る対象</label>
+    <select id="voice"></select>
+    <label for="focusCh">章を強調</label>
+    <select id="focusCh"></select>
+    <span class="hint">地の文と会話文は別々に測ります — 会話率が章で 11%〜78% と振れるので、
+      混ぜると文体ではなく会話率を測ることになります。</span>
+  </div>
+  <div id="scatter"></div>
+  <p class="note" id="scatterNote"></p>
+
+  <h3 style="font-size:15px;margin:24px 0 4px">章ごとの孤立度と置換検定</h3>
+  <div id="isolation"></div>
+  <p class="note" id="isolationNote"></p>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+  <div id="isoTable"></div>
+</section>
+
+<section>
+  <h2>rolling delta — 文体の切り替わり</h2>
+  <div id="rolling"></div>
+  <p class="note" id="rollingNote"></p>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="index.html">応酬の帯</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</footer>
+
+<script type="module" src="chrono.js"></script>
+</body>
+</html>

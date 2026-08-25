@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>二声 — 猫アトラス</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>二声 — 地の文と会話文</h1>
+  <p>猫の語り(地の文)と座談(会話文)を<strong>別のコーパスとして</strong>並べます。
+     この作品では両者の落差が大きく、分けること自体が主題になります。
+     本文の全文字は 5 区分の直和として厳密に分けてあり、率や近似では通していません。</p>
+  <p class="work" id="dictNote"></p>
+</header>
+
+<nav class="chapter-nav">
+  <a href="index.html">応酬の帯</a>
+  <a href="chrono.html">連載回</a>
+  <a href="futakoe.html" aria-current="page">二声</a>
+  <a href="haichi.html">配置</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</nav>
+
+<div class="filters" style="margin-top:16px">
+  <label for="dict">形態素辞書</label>
+  <select id="dict"></select>
+  <span class="hint">2 本の辞書で解析してあります。<strong>どちらの辞書による値かを必ず添えます</strong> —
+    漢文訓読調が混じるので、片方の辞書に結論を依存させないためです。</span>
+</div>
+
+<section>
+  <h2>分けないと何を測ることになるか</h2>
+  <div id="demo"></div>
+</section>
+
+<section>
+  <h2>文の長さ</h2>
+  <div class="panel" id="lenhist"></div>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+  <p class="note">横軸は 10 字刻み、縦軸はその声の全文に占める割合。200 字以上は末尾にまとめてあります。</p>
+</section>
+
+<section>
+  <h2>語種と品詞</h2>
+  <div class="cols">
+    <div class="panel"><h3>語種の比率</h3><div id="goshu"></div></div>
+    <div class="panel"><h3>品詞の比率(上位 9)</h3><div id="pos"></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>文末表現と品詞バイグラム</h2>
+  <div class="cols">
+    <div class="panel"><h3>文末表現</h3><div id="bunmatsu"></div></div>
+    <div class="panel"><h3>品詞バイグラム</h3><div id="bigram"></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>章別</h2>
+  <div id="bych"></div>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="index.html">応酬の帯</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</footer>
+
+<script type="module" src="futakoe.js"></script>
+</body>
+</html>

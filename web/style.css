@@ -204,3 +204,38 @@ footer.site a { color: var(--ink-2); }
 
 a { color: var(--series-1); }
 .muted { color: var(--ink-muted); }
+
+/* --- L5 のビュー共通 ------------------------------------------------------ */
+:root { --jinomon-strong: #a8a496; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --jinomon-strong: #6b675c; } }
+:root[data-theme="dark"] { --jinomon-strong: #6b675c; }
+
+.note { font-size: 12px; color: var(--ink-2); margin: 8px 0 0; max-width: 86ch; line-height: 1.75; }
+h3 { font-size: 15px; }
+
+.issues { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.issue {
+  font-size: 12px; padding: 4px 10px; border: 1px solid var(--axis); border-radius: 6px;
+  color: var(--ink-2); font-variant-numeric: tabular-nums;
+}
+.issue b { color: var(--ink); font-weight: 600; }
+
+#scatter svg, #isolation svg, #rolling svg, #dispersion svg { background: var(--surface); border-radius: 6px; }
+#scatter, #isolation, #rolling, #dispersion {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 10px; overflow-x: auto;
+}
+#scatter text[tabindex]:focus-visible, circle[tabindex]:focus-visible,
+rect[tabindex]:focus-visible { outline: 2px solid var(--series-1); outline-offset: 2px; }
+
+table.tv caption { caption-side: top; text-align: left; font-size: 12px; color: var(--ink-2); padding-bottom: 6px; }
+
+/* 対比バー */
+.pair { display: grid; grid-template-columns: 148px 1fr 1fr; gap: 10px; align-items: center; padding: 3px 0; }
+.pair.head { color: var(--ink-2); font-size: 12px; border-top: 1px solid var(--rule); margin-top: 6px; padding-top: 6px; }
+.pair .pk { font-size: 12px; color: var(--ink-2); }
+.pair .pb { display: flex; align-items: center; gap: 8px; font-size: 12px; font-variant-numeric: tabular-nums; }
+.pair .pb i { height: 10px; border-radius: 2px; display: block; min-width: 1px; }
+.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
+.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
+.cols h3 { margin: 0 0 8px; }

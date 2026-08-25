@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>配置 — 猫アトラス</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>配置 — 語彙分散</h1>
+  <p>筋を持たない作品なので、感情の起伏を追う曲線は機能しません。
+     代わりに <strong>どの語がどこに固まって出るか</strong> を全長軸に並べると、
+     挿話の切れ目がそのまま構成図として立ち上がります。
+     縦の細線 1 本が 1 回の出現、横軸は本文の先頭から末尾までです。</p>
+  <p class="work" id="note"></p>
+</header>
+
+<nav class="chapter-nav">
+  <a href="index.html">応酬の帯</a>
+  <a href="chrono.html">連載回</a>
+  <a href="futakoe.html">二声</a>
+  <a href="haichi.html" aria-current="page">配置</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</nav>
+
+<div class="filters" style="margin-top:16px">
+  <label for="mode">並べる語</label>
+  <select id="mode">
+    <option value="concentrated">固まって出る語(偏りの小さい順)</option>
+    <option value="persons">人物(異名をまとめて)</option>
+  </select>
+  <span class="hint">主題語は手で選んでいません。章別分布の偏り(Juilland の D)で採っています。
+    行をクリックすると、その語の最初の出現位置からリーダーが開きます。</span>
+</div>
+
+<section style="margin-top:14px">
+  <div id="dispersion"></div>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+</section>
+
+<section>
+  <h2>偏りの表</h2>
+  <div id="dtable"></div>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="index.html">応酬の帯</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</footer>
+
+<script type="module" src="haichi.js"></script>
+</body>
+</html>
