@@ -4,3 +4,8 @@ __pycache__/
 data/cache/
 .venv/
 .dict/
+
+.vercel
+.env*
+.env.local
+node_modules/

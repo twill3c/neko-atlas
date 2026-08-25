@@ -1,8 +1,9 @@
-.venv
-.dict
-data
-logs
-pipeline
-tests
-harness
+/.venv
+/.dict
+/data
+/logs
+/pipeline
+/tests
+/harness
+/.pytest_cache
 __pycache__
