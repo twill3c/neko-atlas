@@ -239,3 +239,7 @@ table.tv caption { caption-side: top; text-align: left; font-size: 12px; color: 
 .panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
 .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
 .cols h3 { margin: 0 0 8px; }
+.ev { font-family: var(--serif); color: var(--ink-2); font-size: 12px; }
+table.tv td .ev { white-space: normal; }
+table.tv td:nth-child(6) { text-align: left; max-width: 460px; }
+table.tv td:nth-child(7), table.tv td:nth-child(2), table.tv td:nth-child(3) { text-align: left; }

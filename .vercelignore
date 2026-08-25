@@ -1,0 +1,8 @@
+.venv
+.dict
+data
+logs
+pipeline
+tests
+harness
+__pycache__

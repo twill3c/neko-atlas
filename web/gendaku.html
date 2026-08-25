@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>衒学 — 猫アトラス</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>衒学 — 教養のひけらかし</h1>
+  <p>この作品では、西洋人名・漢籍の典故・同時代の固有名詞を並べること自体が笑いの装置です。
+     どこで濃くなるかを章別に測ります。<strong>分類は手作業で、各語に本文中の文脈を出所として
+     添えてあります</strong> — 自動推定で埋めていません。</p>
+</header>
+
+<nav class="chapter-nav">
+  <a href="index.html">応酬の帯</a>
+  <a href="chrono.html">連載回</a>
+  <a href="futakoe.html">二声</a>
+  <a href="haichi.html">配置</a>
+  <a href="zadan.html">座談</a>
+  <a href="gendaku.html" aria-current="page">衒学</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</nav>
+
+<div class="tiles" id="tiles" style="margin-top:18px"></div>
+
+<section style="margin-top:0">
+  <h2>章別の密度</h2>
+  <div id="bychapter" class="panel"></div>
+  <div class="legend" id="legend"></div>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+  <p class="note">縦軸は千字あたりの出現回数。章の長さが違うので、生の回数ではなく密度で並べています。</p>
+</section>
+
+<section>
+  <h2>カタログ</h2>
+  <div class="filters">
+    <label for="cls">分類</label>
+    <select id="cls"></select>
+    <span class="hint">「本文の文脈」欄がその語の出所です。分類の当否を本文で確かめられます。</span>
+  </div>
+  <div id="catalog"></div>
+</section>
+
+<section>
+  <h2>このカタログの限界</h2>
+  <div id="limits"></div>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="https://github.com/twill3c/neko-atlas">GitHub</a>
+  <a href="https://claude.ai/code/artifact/c3048f58-cbf5-4e1b-a496-c51c121341f5">歩き方</a>
+  <a href="https://claude.ai/code/artifact/ae20ea82-2023-488d-8b1d-e463c3ca7f11">設計図</a>
+  <a href="https://app-menu-amber.vercel.app/">App Menu</a>
+</footer>
+
+<script type="module" src="gendaku.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>座談 — 猫アトラス</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <h1>座談 — 誰がどれだけ喋るか</h1>
+  <p>苦沙弥・迷亭・寒月・独仙・東風の座談が本体の作品です。ただし
+     <strong>本文が話者を明記している発話は限られている</strong>ので、ここに出るのは
+     その分だけの集計になります。足りない分を直前の話者などで埋めることはしていません。</p>
+  <p class="work" id="note"></p>
+</header>
+
+<nav class="chapter-nav">
+  <a href="index.html">応酬の帯</a>
+  <a href="chrono.html">連載回</a>
+  <a href="futakoe.html">二声</a>
+  <a href="haichi.html">配置</a>
+  <a href="zadan.html" aria-current="page">座談</a>
+  <a href="gendaku.html">衒学</a>
+  <a href="reader.html?ch=1">リーダー</a>
+</nav>
+
+<section style="margin-top:20px">
+  <h2>出していないもの</h2>
+  <div id="degraded"></div>
+</section>
+
+<section>
+  <h2>章 × 人物の発話量</h2>
+  <div class="filters">
+    <label for="metric">量の取り方</label>
+    <select id="metric">
+      <option value="utterances">発話数（不明を含む）</option>
+      <option value="chars">字数（帰属できた発話のみ）</option>
+    </select>
+    <span class="hint">「話者不明」は塗らない色で、第一級の項目として並べています。</span>
+  </div>
+  <div id="stack" class="panel"></div>
+  <div class="legend" id="legend"></div>
+  <div class="readout" id="readout" role="status" aria-live="polite"></div>
+</section>
+
+<section>
+  <h2>話者ごとの合計</h2>
+  <div id="totals"></div>
+</section>
+
+<section>
+  <h2>章ごとの帰属</h2>
+  <div id="bych"></div>
+  <p class="note">帰属に使った規則の内訳:</p>
+  <div class="issues" id="rules"></div>
+  <p class="note">R1 は「…」と{人物}が{言表動詞}、R1b は言表動詞のない引用節、
+    R2 は引用の前に置かれた言表節です。R4(交替既定)は実測 0 件で発火しませんでした。</p>
+</section>
+
+</div>
+
+<footer class="site">
+  <span>© neko-atlas</span>
+  <a href="https://github.com/twill3c/neko-atlas">GitHub</a>
+  <a href="https://claude.ai/code/artifact/c3048f58-cbf5-4e1b-a496-c51c121341f5">歩き方</a>
+  <a href="https://claude.ai/code/artifact/ae20ea82-2023-488d-8b1d-e463c3ca7f11">設計図</a>
+  <a href="https://app-menu-amber.vercel.app/">App Menu</a>
+</footer>
+
+<script type="module" src="zadan.js"></script>
+</body>
+</html>

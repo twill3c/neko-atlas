@@ -4,4 +4,3 @@ __pycache__/
 data/cache/
 .venv/
 .dict/
-web/data/
