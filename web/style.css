@@ -243,3 +243,13 @@ table.tv caption { caption-side: top; text-align: left; font-size: 12px; color: 
 table.tv td .ev { white-space: normal; }
 table.tv td:nth-child(6) { text-align: left; max-width: 460px; }
 table.tv td:nth-child(7), table.tv td:nth-child(2), table.tv td:nth-child(3) { text-align: left; }
+
+/* fleet: フッタ区切り。規約の並び「MIT License © 2026 坂田哲朗 ・ GitHub ・ … 」の「・」。
+   CSS の ::before では innerText に出ず検品器から見えないので、文字として置いてある。
+   ここでは色と詰めだけを与える(flex の gap があるぶん、左右を負で詰める)。 */
+.fsep {
+  color: currentColor;
+  opacity: 0.45;
+  margin: 0 -0.3rem;
+  user-select: none;
+}
