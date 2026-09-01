@@ -211,6 +211,13 @@ a { color: var(--series-1); }
 :root[data-theme="dark"] { --jinomon-strong: #6b675c; }
 
 .note { font-size: 12px; color: var(--ink-2); margin: 8px 0 0; max-width: 86ch; line-height: 1.75; }
+
+/* 底本表記(青空文庫)。固定フッタの直上に置き、全ページで同一文言にする */
+p.attr {
+  font-size: 11px; color: var(--ink-muted); line-height: 1.7;
+  max-width: 86ch; margin: 28px 0 0; padding-top: 12px; border-top: 1px solid var(--rule);
+}
+p.attr a { color: var(--ink-2); }
 h3 { font-size: 15px; }
 
 .issues { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
